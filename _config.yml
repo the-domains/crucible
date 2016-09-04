@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Alastair Thompson
+  email: 'althelion@gmail,com'
+  url: www.scoop.co.nz
 name: Crucible
 cta:
   domain: null
