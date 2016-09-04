@@ -43,6 +43,10 @@ navigation:
   - name: Scoop Foundation
     url: 'http://foundation.scoop.co.nz'
     type: external
+  - name: Reinventing News
+    url: >-
+      http://www.scoop.co.nz/stories/HL1501/S00058/reinventing-news-as-a-public-right-a-public-conversation.htm
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/256fdb13-3238-4d89-ba9e-b9c6055e9941.jpg
 title: Alastair Thompson
