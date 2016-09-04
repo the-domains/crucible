@@ -40,6 +40,9 @@ navigation:
   - name: La Révolution Pacifique
     url: 'https://mazuel2017.fr/'
     type: external
+  - name: Scoop Foundation
+    url: 'http://foundation.scoop.co.nz'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/256fdb13-3238-4d89-ba9e-b9c6055e9941.jpg
 title: Alastair Thompson
