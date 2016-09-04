@@ -1,4 +1,3 @@
-layout_spectrum: 0.04058645898476243
 typography_spectrum: 0.607158494181931
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.04058645898476243
 analytics:
   google: null
   facebook: null
@@ -23,6 +23,8 @@ author:
   name: Alastair Thompson
   email: 'althelion@gmail,com'
   url: www.scoop.co.nz
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fda9978c-8ae8-4d83-996d-621f2ac99012.jpg
 name: Crucible
 cta:
   domain: null
@@ -32,7 +34,8 @@ navigation:
   - name: Scoop
     url: 'http://www.scoop.co.nz'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/47a4c878-e926-4703-9696-11240203d4d6.jpg
 title: Alastair Thompson
 description: A Kiwi journalist in Europe
 purpose: []
